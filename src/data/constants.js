@@ -13,7 +13,7 @@ export const Bio = {
     "Software Developer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "Motivated and creative, I turn challenges into purposeful solutions.Always evolving — crafting clean, user-focused web experiences.",
   github: "https://github.com/RAHULLOHAR7",
   resume:
     "https://drive.google.com/file/d/1OynkC9qF6EJsPAF3KBw8KIIu1S316Z5u/view?usp=sharing",
