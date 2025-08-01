@@ -245,7 +245,7 @@ export const projects = [
     tags: ["React.js", "React Hook Form", "Axios", "Context API"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://ddabattalion.com/dashboard",
+    webapp: "https://ddabattalion.com/admin/auth",
   },
   {
     id: 7,
