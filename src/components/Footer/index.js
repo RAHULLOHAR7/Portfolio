@@ -90,8 +90,10 @@ function Footer() {
         <Logo style={{ color: "rebeccapurple" }}> 93222282981</Logo>
         <Logo style={{ color: "rebeccapurple" }}>
           <a
-            href="mailto:rahullohar.job@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=rahullohar.job@gmail.com"
+            target="_blank"
             style={{ color: "rebeccapurple" }}
+            rel="noreferrer"
           >
             rahullohar.job@gmail.com
           </a>

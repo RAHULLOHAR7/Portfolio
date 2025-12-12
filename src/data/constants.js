@@ -16,7 +16,7 @@ export const Bio = {
     "Motivated and creative, I turn challenges into purposeful solutions.Always evolving — crafting clean, user-focused web experiences.",
   github: "https://github.com/RAHULLOHAR7",
   resume:
-    "https://drive.google.com/file/d/1OynkC9qF6EJsPAF3KBw8KIIu1S316Z5u/view?usp=sharing",
+    "https://drive.google.com/file/d/14C3rwcmr83PN1C9nWjbcW1MAKtOzwYlG/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/rahul-l-2a3a71161",
   twitter: "https://x.com/RahulLo45110711",
   insta:
@@ -44,7 +44,7 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
-        name: "React Js",
+        name: "React JS",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
@@ -54,9 +54,14 @@ export const skills = [
       //     "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       // },
       {
-        name: "Next Js",
+        name: "Next JS",
         image:
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      },
+      {
+        name: "React Native ",
+        image:
+          "https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000",
       },
       // {
       //   name: "Angular Js",
@@ -75,7 +80,7 @@ export const skills = [
     title: "Backend",
     skills: [
       {
-        name: "Node Js",
+        name: "Node JS",
         image: "https://nodejs.org/static/images/logo.svg",
       },
 
@@ -113,7 +118,7 @@ export const skills = [
       {
         name: "Netlify",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://img.icons8.com/?size=100&id=p2VooZ9Gcgxm&format=png&color=000000",
       },
       {
         name: "VS Code",
@@ -175,10 +180,10 @@ export const education = [
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Alard Institute Of Management Sciences ,Pune",
+    school: "Alard Institute Of Management Sciences, Pune",
     date: "Aug 2021 - Oct 2023",
     grade: "8.21 CGPA",
-    desc: "Completed my post-graduation in MCA from SPPU",
+    desc: "Completed my Post Graduation in MCA from SPPU",
     degree: "MCA(Master of Computer Applications)",
   },
   {
@@ -193,10 +198,9 @@ export const education = [
   {
     id: 2,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "St. Lawrence College Of Science - Commerce ",
+    school: "St. Lawrence College Of Science - Commerce",
     date: "2018",
     grade: "62%",
-    // desc: "I completed my class 12 education at Adarsh Vidhyalay Chikhli School, Chikhli.",
     degree: "HSC",
   },
   {
@@ -205,7 +209,6 @@ export const education = [
     school: "Sankalp English School",
     date: "2016",
     grade: "62%",
-    // desc: "I completed my class 10th education at Adarsh Vidhyalay Chikhli School.",
     degree: "SSC",
   },
 ];
