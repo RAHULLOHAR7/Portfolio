@@ -35,13 +35,11 @@ export const skills = [
       },
       {
         name: "CSS",
-        image:
-          "https://www.flaticon.com/free-icon/css-3_732190?term=css&page=1&position=1&origin=search&related_id=732190",
+        image: "../assests/images/css-3.png",
       },
       {
         name: "JavaScript",
-        image:
-          "https://www.flaticon.com/free-icon/javascript_12658403?term=js&page=1&position=23&origin=search&related_id=12658403",
+        image: "../assests/images/js.png",
       },
       {
         name: "React JS",
