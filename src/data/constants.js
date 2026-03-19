@@ -35,11 +35,13 @@ export const skills = [
       },
       {
         name: "CSS",
-        image: "../assests/images/css-3.png",
+        image:
+          "https://img.icons8.com/?size=100&id=38273&format=png&color=000000",
       },
       {
         name: "JavaScript",
-        image: "../assests/images/js.png",
+        image:
+          "https://img.icons8.com/?size=100&id=108784&format=png&color=000000",
       },
       {
         name: "React JS",
