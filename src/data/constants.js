@@ -16,7 +16,7 @@ export const Bio = {
     "Motivated and creative, I turn challenges into purposeful solutions.Always evolving — crafting clean, user-focused web experiences.",
   github: "https://github.com/RAHULLOHAR7",
   resume:
-    "https://drive.google.com/file/d/14C3rwcmr83PN1C9nWjbcW1MAKtOzwYlG/view?usp=drive_link",
+    "https://drive.google.com/file/d/1aZeqgSaP_bVsrctXwmvq-Iqa1PsZSmYO/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/rahul-l-2a3a71161",
   twitter: "https://x.com/RahulLo45110711",
   insta:
@@ -36,12 +36,12 @@ export const skills = [
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://www.flaticon.com/free-icon/css-3_732190?term=css&page=1&position=1&origin=search&related_id=732190",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://www.flaticon.com/free-icon/javascript_12658403?term=js&page=1&position=23&origin=search&related_id=12658403",
       },
       {
         name: "React JS",
@@ -147,15 +147,25 @@ export const experiences = [
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    role: "Software Engineer - Web developer",
+    company: "Accenture (Payroll: Expedite Software)",
+    date: "Nov 2025 - Present",
+    desc: "Developed and maintained responsive, pixel-perfect email templates and reusable fragments using HTML5 & CSS3 for Astellas (Japan region), worked on Veeva CRM to upload and deploy campaign assets, ensured cross-client compatibility across Outlook, Gmail, and mobile devices using email-safe practices, implemented table-based layouts with inline CSS for consistent rendering, and performed QA testing, debugging, and optimization for high-quality delivery.",
+    skills: ["HTML", "CSS", "CMS"],
+    // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
+  },
+  {
+    id: 1,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: "React Developer",
     company: "Native Consultancy",
-    date: "Jan 2024 - Present",
+    date: "Jan 2024 - Nov 2025",
     desc: "Developed and maintained scalable single-page applications (SPAs) using React.js, ensuring responsive design andcross-browser compatibility.Built reusable functional components with React Hooks (useState, useEffect, useContext, etc.) and custom hooksfor clean, modular code.Implemented state management using Redux Toolkit and Context API to manage complex application data. Integrated RESTful APIs using Axios and Fetch API, handling asynchronous data and error management. Utilized React Router for client-side routing and navigation between views with protected routes and conditional rendering.",
     skills: ["ReactJS", "NodeJs", "HTML", "CSS", "JavaScript"],
     // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
   {
-    id: 1,
+    id: 2,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Frontend Developer Intern",
     company: "AK INFOSOL PVT. LTD",
@@ -165,7 +175,7 @@ export const experiences = [
     // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
   {
-    id: 2,
+    id: 3,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
     role: "Software developer Intern",
     company: "A3 PIXELS Pvt.Ltd",
